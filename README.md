@@ -1,7 +1,7 @@
 # Covid-19-Pandemic-System
 This repository contains the files to an app which allows nurses to create covid-19 tests for patients, lets guests view the latest updates on the virus and many more features.
 
-Author: Shivam Syal
+Author: Sagar Syal
 
 Copyright 2020, all rights reserved.
 
@@ -42,4 +42,4 @@ To see source code follow these steps:
 
 Here are all the source code Java files.
 
-Contact Info: ssyal030@uottawa.ca
+Contact Info: sagarsyal@cmail.carleton.ca
